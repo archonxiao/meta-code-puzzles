@@ -1,6 +1,6 @@
 *Note: Chapter 2 is a harder version of this puzzle. The only difference is a larger constraint on* $N$.
 
-A photography set consists of $N$ cells in a row, numbered from $1$ to $N$ in order, and can be represented by a string $C$ of length $N$. Each cell ii is one of the following types (indicated by $C_i$, the $i$ th character of $C$):
+A photography set consists of $N$ cells in a row, numbered from $1$ to $N$ in order, and can be represented by a string $C$ of length $N$. Each cell $i$ is one of the following types (indicated by $C_i$, the $i$ th character of $C$):
 
 - If $C_i$ = "$P$", it is allowed to contain a photographer
 - If $C_i$ = “$A$”, it is allowed to contain an actor
