@@ -12,7 +12,7 @@ A photograph consists of a photographer, an actor, and a backdrop, such that eac
 Determine the number of different artistic photographs which could potentially be taken at the set. Two photographs are considered different if they involve a different photographer cell, actor cell, and/or backdrop cell.
 
 #### Constraints
-$1 \le N \le 200$<br>
+$1 \le N \le 300,000$<br>
 $1 \le X \le Y \le N$
 
 #### Sample test case #1
